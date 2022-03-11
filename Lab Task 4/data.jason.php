@@ -1,0 +1,1 @@
+[{"name":"Nafis Nihal","email":"abc@gamil.com","username":"abc","password":"TnTnTntt1@","gender":"male","dob":"1997-12-11","ppic_abs_path":"uploads\/PicsArt_01-02-09.37.05.jpg"}]
